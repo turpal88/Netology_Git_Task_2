@@ -1,0 +1,9 @@
+#Folder tmp is ignored
+/tmp/
+# Files with ._old are ignored
+*.*_old
+*.*_backup
+# .DS_Store is ignored
+.DS_Store
+Thumbs.db
+
